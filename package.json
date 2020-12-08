@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "arrowParens": "always",
+    "printWidth": 100
+  }
 }
